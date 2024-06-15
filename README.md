@@ -1,6 +1,6 @@
-## Hi there, I'm Je 👋
+## Hi there, I'm Je
 
-🖤 Currently designing an open-source heterogeneous SoC platform for generative models!
+👩🏻‍💻 Currently designing an open-source heterogeneous SoC platform for generative models!
 
 🕶️ Experiences
 * Graduate Research Assistant @Columbia University, System-Level Design Group
