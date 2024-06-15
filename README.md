@@ -1,8 +1,8 @@
 ## Hi there, I'm Je 👋
 
-👩🏻‍💻 Currently designing a open-source heterogeneous SoC platform for generative models!
+🖤 Currently designing an open-source heterogeneous SoC platform for generative models!
 
-🖤 Experiences
+🕶️ Experiences
 * Graduate Research Assistant @Columbia University, System-Level Design Group
 * Research Intern @Rebellions, AI Accelerator and System Team
 * Graduate Research Assistant @KAIST, Circuits-Architecture-Systems-Technology Lab
