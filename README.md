@@ -1,4 +1,4 @@
-## Hi there, I'm Je
+## Hi there, I'm Jenna
 
 👩🏻‍💻 Currently designing an **open-source heterogeneous System-on-Chip platform** for generative models! Helping heterogeneous models have extended, but perfect design choice.
   - 🚀 Graduate Research Assistant @Columbia University, System-Level Design Group
