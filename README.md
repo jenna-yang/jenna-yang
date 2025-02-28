@@ -4,4 +4,4 @@
   - 🚀 Graduate Research Assistant @Columbia University, System-Level Design Group
   - ✅ Research Intern @Rebellions, AI Accelerator and System Team
   - ✅ Graduate Research Assistant @KAIST, Circuits-Architecture-Systems-Technology Lab
-  - ✅ Reserach Intern @SK Hynix, DRAM Design Verification and Engineering Team
+  - 🥇 Gold prize in 29th Samsung HumanTech Paper Award 2023 (1st prize in Circuit Design Division)
